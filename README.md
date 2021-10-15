@@ -1,5 +1,5 @@
 - 🔭 I’m currently working at Autoever
-- 🌱 I’m currently learning Javascript, ReactJS, Python
+- 🌱 I’m currently learning Javascript, Typescript, ReactJS, Python, React Native
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ykss)](https://github.com/anuraghazra/github-readme-stats)
 
