@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 KYEONGSANG YU
 
-- 🔭 I’m currently working at Autoever
+- 🔭 Frontend Developer
 - 🌱 I’m currently learning Javascript, Typescript, ReactJS, Python, React Native
 - [RESUME](https://ykss.notion.site/Kyeongsang-Yu-a4ddc1935ee74a0aafbb311aa7f675e7)
 
@@ -14,6 +14,16 @@
 - 💻  Javascript | Typescript | Python | 
 - ⚙️  ReactJS | React Native 
 - 🛢  Firebase 
+
+### 📫 Career
+
+- Hyundai Autoever | Software Engineer (2019.07.01 ~ )
+
+### ⚡ Activity
+
+- [Depromeet 10th](https://www.depromeet.com/) (2021.09 ~ 2021.12)
+
+---
   
   [![ykss's github stats](https://github-readme-stats.vercel.app/api?username=ykss)](https://github.com/anuraghazra/github-readme-stats)
 
