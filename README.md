@@ -4,11 +4,9 @@
 
 ### 👨🏻‍💻 KYEONGSANG YU
 
-🔭 I’m currently working at Autoever
-
-🌱 I’m currently learning Javascript, Typescript, ReactJS, Python, React Native
-
-[RESUME](https://ykss.notion.site/Kyeongsang-Yu-a4ddc1935ee74a0aafbb311aa7f675e7)
+- 🔭 I’m currently working at Autoever
+- 🌱 I’m currently learning Javascript, Typescript, ReactJS, Python, React Native
+- [RESUME](https://ykss.notion.site/Kyeongsang-Yu-a4ddc1935ee74a0aafbb311aa7f675e7)
 
 
 ### 🛠 Tech Stack
