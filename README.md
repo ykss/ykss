@@ -2,8 +2,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyeongsangyu/)](https://www.linkedin.com/in/kyeongsangyu/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yukyeongsang@gmail.com)](mailto:yukyeongsang@gmail.com)
 
-- 🔭 I’m currently working at Autoever
-- 🌱 I’m currently learning Javascript, Typescript, ReactJS, Python, React Native
+### 👨🏻‍💻 KYEONGSANG YU
+
+🔭 I’m currently working at Autoever
+🌱 I’m currently learning Javascript, Typescript, ReactJS, Python, React Native
+[RESUME](https://ykss.notion.site/Kyeongsang-Yu-a4ddc1935ee74a0aafbb311aa7f675e7)
+
+### 🛠 Tech Stack
+
+- 💻  Javascript | Typescript | Python | 
+- ⚙️  ReactJS | React Native 
+- 🛢  Firebase 
   
   [![ykss's github stats](https://github-readme-stats.vercel.app/api?username=ykss)](https://github.com/anuraghazra/github-readme-stats)
 
