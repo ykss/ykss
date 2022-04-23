@@ -2,9 +2,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyeongsangyu/)](https://www.linkedin.com/in/kyeongsangyu/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yukyeongsang@gmail.com)](mailto:yukyeongsang@gmail.com)
 
-### 👨🏻‍💻 KYEONGSANG YU
+### 👨🏻‍💻  KYEONGSANG YU
 
-- 🔭 Frontend Developer
+- 👨 Frontend Developer
 - 🌱 I’m currently learning Javascript, Typescript, ReactJS, Python, React Native
 - [RESUME](https://ykss.notion.site/Kyeongsang-Yu-a4ddc1935ee74a0aafbb311aa7f675e7)
 
