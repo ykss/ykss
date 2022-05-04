@@ -17,8 +17,8 @@
 
 ### 📫 Career
 
-- Kurly | Frontend Developer (2022.05.09 ~ )
-- Hyundai Autoever | Software Engineer (2019.07.01 ~ 2022.05.06)
+- Kurly | Frontend Developer (2022.05 ~ )
+- Hyundai Autoever | Software Engineer (2019.07 ~ 2022.05)
 
 ### ⚡ Activity
 
