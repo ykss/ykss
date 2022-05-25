@@ -11,7 +11,7 @@
 
 ### 🛠 Tech Stack
 
-- 💻  Javascript | Typescript 
+- 💻  Javascript | Typescript | Python
 - ⚙️  ReactJS | React Native 
 - 🛢  Firebase 
 
