@@ -17,8 +17,8 @@
 
 ### 📫  Career
 
-- Kurly | Frontend Developer (2022.05 ~ )
-- Hyundai Autoever | Software Engineer (2019.07 ~ 2022.05)
+- [Kurly](https://www.kurly.com/shop/main/index.php) | Frontend Developer (2022.05 ~ )
+- [Hyundai Autoever](https://www.hyundai-autoever.com/kor/main/index.do) | Software Engineer (2019.07 ~ 2022.05)
 
 ### ⚡ Activity
 
