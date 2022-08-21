@@ -23,6 +23,7 @@
 ### ⚡ Activity
 
 - [Depromeet 10th](https://www.depromeet.com/) (2021.09 ~ 2021.12)
+- [Korean FE article](https://kofearticle.substack.com/) (2022.08 ~)
 
   
  
