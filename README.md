@@ -25,8 +25,11 @@
 - [Korean FE article](https://kofearticle.substack.com/) (2022.08 ~)
 - [Depromeet 10th](https://www.depromeet.com/) (2021.09 ~ 2021.12)
 
+### 📚 Projects
 
-  
+- [암고잉](https://www.notion.so/ykss/85634e9420184532af8683864a8c0409) ([Android](https://play.google.com/store/apps/details?id=com.dpm.imgoing))
+- [위로](https://www.notion.so/ykss/Wero-7b5d4b63a3cb478e8c17e93fe089ba53) ([Android](https://play.google.com/store/apps/details?id=com.ykss.wero), [iOS](https://apps.apple.com/kr/app/%EC%9C%84%EB%A1%9C/id1604716763))
+- [포레스트](https://www.notion.so/ykss/forrest-566dadf9123b4ca392afb5f29dcb0570) ([Web](https://for-rest.netlify.app/))
  
 
 
