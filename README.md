@@ -27,9 +27,9 @@
 
 ### 📚 Projects
 
-- [암고잉](https://www.notion.so/ykss/85634e9420184532af8683864a8c0409) ([Android](https://play.google.com/store/apps/details?id=com.dpm.imgoing))
-- [위로](https://www.notion.so/ykss/Wero-7b5d4b63a3cb478e8c17e93fe089ba53) ([Android](https://play.google.com/store/apps/details?id=com.ykss.wero), [iOS](https://apps.apple.com/kr/app/%EC%9C%84%EB%A1%9C/id1604716763))
-- [포레스트](https://www.notion.so/ykss/forrest-566dadf9123b4ca392afb5f29dcb0570) ([Web](https://for-rest.netlify.app/))
+- [암고잉](https://www.notion.so/ykss/85634e9420184532af8683864a8c0409) ([Android](https://play.google.com/store/apps/details?id=com.dpm.imgoing)) - 루틴관리 서비스
+- [위로](https://www.notion.so/ykss/Wero-7b5d4b63a3cb478e8c17e93fe089ba53) ([Android](https://play.google.com/store/apps/details?id=com.ykss.wero), [iOS](https://apps.apple.com/kr/app/%EC%9C%84%EB%A1%9C/id1604716763)) - MBTI기반 위로메시지 전달 서비스
+- [포레스트](https://www.notion.so/ykss/forrest-566dadf9123b4ca392afb5f29dcb0570) ([Web](https://for-rest.netlify.app/)) - 공휴일 카운트다운 서비스
  
 
 
