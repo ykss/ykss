@@ -12,7 +12,7 @@
 ### 🛠  Tech Stack
 
 - 💻  Javascript | Typescript | Python
-- ⚙️  React | React Native | Vue
+- ⚙️  React | Vue | React Native 
 - 🛢  Firebase 
 
 ### 📫  Career
