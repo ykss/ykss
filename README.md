@@ -5,14 +5,14 @@
 ### 👨🏻‍💻   KYEONGSANG YU
 
 - 👨 Frontend Developer
-- 🌱 I’m currently learning Javascript, Typescript, ReactJS, React Native, and Vue.JS
+- 🌱 I’m interested in Javascript, Typescript, ReactJS, and React Native.
 - [ RESUME ](https://ykss.notion.site/Kyeongsang-Yu-a4ddc1935ee74a0aafbb311aa7f675e7)
 
 
 ### 🛠  Tech Stack
 
 - 💻  Javascript | Typescript | Python
-- ⚙️  React | Vue | React Native 
+- ⚙️  React | React Native | Vue  
 - 🛢  Firebase 
 
 ### 📫  Career
