@@ -17,7 +17,8 @@
 
 ### 📫  Career
 
-- [Kurly](https://www.kurly.com/shop/main/index.php) | Frontend Developer (2022.05 ~ )
+- [42dot](https://42dot.ai/) | Frontend Developer (2024.05 ~ )
+- [Kurly](https://www.kurly.com/shop/main/index.php) | Frontend Developer (2022.05 ~ 2024.05)
 - [Hyundai Autoever](https://www.hyundai-autoever.com/kor/main/index.do) | Software Engineer (2019.07 ~ 2022.05)
 
 ### ⚡ Activity
